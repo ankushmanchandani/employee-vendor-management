@@ -1,0 +1,34 @@
+.vendor-list {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1em;
+  background: #f4f7f8;
+  border-radius: 8px;
+}
+
+.vendor-list h2 {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.vendor-list table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+.vendor-list th,
+.vendor-list td {
+  padding: 0.75em;
+  text-align: left;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.vendor-list th {
+  background-color: #f2f2f2;
+}
+
+.vendor-list tr:nth-child(even) {
+  background-color: #f9f9f9;
+}

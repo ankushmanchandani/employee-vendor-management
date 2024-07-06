@@ -1,0 +1,18 @@
+.email-logs-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.email-logs {
+  margin-top: 20px;
+}
+
+.email-log {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.email-log p {
+  margin: 5px 0;
+}
